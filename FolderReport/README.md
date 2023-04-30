@@ -4,4 +4,8 @@ This report will provide some analysis on a folder of your choosing. You will ne
 
 <code>c:\Temp\Scripts\FolderReport.ps1 -FolderPath "c:\Temp"</code>
 
-There are some free tools to use to get the raw data of folders such as PowerShell and WinDirStat but I wanted a way to visualize it all in Power BI. This report will show you the raw output, which parent folders are the largest in size, the file extensions consuming the most storage space and the top 100 largest files.
+There are some free tools to use to get the raw data of folders such as PowerShell and WinDirStat but I wanted a way to visualize it all in Power BI. This report will show you:
+* The raw output
+* Which parent folders are the largest in size
+* The file extensions consuming the most storage space, and
+* The top 100 largest files
